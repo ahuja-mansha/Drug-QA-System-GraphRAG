@@ -27,7 +27,7 @@ class GraphBuilder:
             
             # The Cypher query provided by the user
             cypher_query = '''
-            LOAD CSV WITH HEADERS FROM 'https://drive.google.com/uc?export=download&id=1gN-zdPUR-ugdeEbMPzy4RRZ8UjUtM-2W' AS row
+            LOAD CSV WITH HEADERS FROM 'https://datasetpath' AS row
             
             WITH row,
               replace(trim(row.drug_name), '\"', '') AS drug_name,
