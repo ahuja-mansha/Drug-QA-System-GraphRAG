@@ -1,0 +1,9 @@
+pandas
+neo4j
+langchain
+langchain-community
+langchain-groq
+langchain-experimental
+sentence-transformers
+numpy
+python-dotenv
