@@ -90,5 +90,5 @@ The project combines **multiple retrieval strategies**:
 ```bash
 git clone https://github.com/ahuja-mansha/Drug-QA-System-GraphRAG.git
 cd Drug-QA-System-GraphRAG
-
+Run setup_db and then run app.py.
 
