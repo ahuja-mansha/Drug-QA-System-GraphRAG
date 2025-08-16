@@ -12,7 +12,7 @@ The system uses a **hybrid retrieval strategy**:
 
 ---
 
-## ✨ Key Features
+## Key Features
 - **GraphRAG Pipeline**: Natural language → Retrieval (keyword + semantic + Cypher) → Graph results → LLM-generated answer.  
 - **Knowledge Graph Construction**: Drugs, conditions, and side effects represented as nodes and relationships.  
 - **Hybrid Retrieval**: Combines **symbolic graph search** with **semantic search**.  
