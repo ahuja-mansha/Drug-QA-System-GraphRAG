@@ -1,4 +1,3 @@
-# Drug-QA-System-using-GraphRAG
 # 💊 Drug Knowledge Graph RAG (Graph Retrieval-Augmented Generation)
 
 ## Project Overview
